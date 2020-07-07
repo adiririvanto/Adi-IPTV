@@ -1,2 +1,0 @@
-# Adi-IPTV
-IPTV Channels!
