@@ -1,7 +1,7 @@
 # Adi-IPTV
 IPTV Channels!
 
-#EXTINF:-1, ANTV
+#EXTINF:-1, ANTV (gagal)
 http://id2.indostreamingtv.com:80/live/antv/index.m3u8
 
 ANTV
@@ -22,6 +22,10 @@ P
 Q
 RCTI
 SCTV
+
+#EXTINF:-1, SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+
 TRANS TV
 U
 V
